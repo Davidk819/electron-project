@@ -1,0 +1,5 @@
+appId: com.example.myelectronapp
+directories:
+  output: dist
+files:
+  - "dist/"
